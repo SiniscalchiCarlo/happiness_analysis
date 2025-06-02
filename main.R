@@ -1,8 +1,3 @@
-Alessandro
-
-18:21 (0 minuti fa)
-
-a me
 install.packages(c(
   "openxlsx",
   "car",
