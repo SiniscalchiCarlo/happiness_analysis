@@ -1,15 +1,16 @@
-install.packages(c(
-  "openxlsx",
-  "car",
-  "BAS",
-  "rgl",
-  "MASS",
-  "leaps",
-  "GGally",
-  "ellipse",
-  "faraway",
-  "corrplot"
-))
+# install.packages(c(
+#   "openxlsx",
+#   "car",
+#   "BAS",
+#   "rgl",
+#   "MASS",
+#   "leaps",
+#   "GGally",
+#   "ellipse",
+#   "faraway",
+#   "corrplot"
+# ))
+# DIXX
 
 library(car)
 library(BAS)
